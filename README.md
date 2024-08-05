@@ -1,6 +1,6 @@
 ## Bonjour ! 👋 Je suis Amadou Diallo
 
-# Concepteur Développeur d'Applications en rechercher d'alternance
+# Concepteur Développeur d'Applications en recherche d'alternance
 
 ![Header Image](https://via.placeholder.com/800x200?text=Welcome+to+Amadou's+GitHub)
 
