@@ -29,19 +29,19 @@ N'hésitez pas à consulter mes projets sur GitHub pour découvrir mes réalisat
 ## 📂 Projets
 
 ### ![CryptoTrackr](https://img.shields.io/badge/CryptoTrackr-%F0%9F%92%B0-blue)
-[**CryptoTrackr**](https://github.com/HYNA42/cryptotrackr) est une application web permettant de suivre très facilement et en temps réel l’évolution des cryptomonnaies. Les utilisateurs peuvent se connecter, créer un compte, et mettre en favoris les cryptomonnaies qui les intéressent le plus. L'application se distingue par son interface visuelle légère et sa personnalisation.
+**[CryptoTrackr](https://github.com/HYNA42/cryptotrackr)** est une application web permettant de suivre très facilement et en temps réel l’évolution des cryptomonnaies. Les utilisateurs peuvent se connecter, créer un compte, et mettre en favoris les cryptomonnaies qui les intéressent le plus. L'application se distingue par son interface visuelle légère et sa personnalisation.
 
 ### ![Vot-It](https://img.shields.io/badge/Vot--It-%F0%9F%93%A3-brightgreen)
-[**Vot-It**](https://github.com/HYNA42/votit) est une plateforme de sondages axée sur le domaine de l'informatique, du développement logiciel et du DevOps, où la communauté tech peut s'exprimer, participer à des débats, et suivre les tendances de l'industrie.
+**[Vot-It](https://github.com/HYNA42/votit)** est une plateforme de sondages axée sur le domaine de l'informatique, du développement logiciel et du DevOps, où la communauté tech peut s'exprimer, participer à des débats, et suivre les tendances de l'industrie.
 
 ### ![Tamagotchi](https://img.shields.io/badge/Tamagotchi-%F0%9F%98%B8-yellow)
-[**Tamagotchi**](https://github.com/HYNA42/tamagotchi) est une révision pratique sur la manipulation du DOM en JavaScript, réalisée sous forme de TP en classe. Le but du projet est de créer une version simplifiée d'un Tamagotchi nommé "Tamastudi", où l'utilisateur doit prendre soin de son personnage en répondant à ses besoins.
+**[Tamagotchi](https://github.com/HYNA42/tamagotchi)** est une révision pratique sur la manipulation du DOM en JavaScript, réalisée sous forme de TP en classe. Le but du projet est de créer une version simplifiée d'un Tamagotchi nommé "Tamastudi", où l'utilisateur doit prendre soin de son personnage en répondant à ses besoins.
 
 ### ![Dictionary](https://img.shields.io/badge/Dictionary-%F0%9F%93%9A-orange)
-[**Dictionary**](https://github.com/HYNA42/dictionary) est un dictionnaire interactif en ligne permettant de rechercher des mots en anglais, d'obtenir leurs définitions, prononciations, et d'écouter la prononciation audio. Le projet met l'accent sur l'utilisation de JavaScript pour manipuler le DOM et interagir avec une API externe.
+**[Dictionary](https://github.com/HYNA42/dictionary)** est un dictionnaire interactif en ligne permettant de rechercher des mots en anglais, d'obtenir leurs définitions, prononciations, et d'écouter la prononciation audio. Le projet met l'accent sur l'utilisation de JavaScript pour manipuler le DOM et interagir avec une API externe.
 
 ### ![To-Do List](https://img.shields.io/badge/To--Do%20List-%F0%9F%93%85-red)
-[**To-Do List**](https://github.com/HYNA42/todo-list) est un gestionnaire de tâches simple et efficace conçu pour aider à organiser le travail et la vie quotidienne de manière efficace. Il permet d'ajouter, de supprimer et de visualiser facilement les tâches à accomplir.
+**[To-Do List](https://github.com/HYNA42/todo-list)** est un gestionnaire de tâches simple et efficace conçu pour aider à organiser le travail et la vie quotidienne de manière efficace. Il permet d'ajouter, de supprimer et de visualiser facilement les tâches à accomplir.
 
 
 ## 🎓 Formation
