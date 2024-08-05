@@ -21,8 +21,8 @@ N'hésitez pas à consulter mes projets sur GitHub pour découvrir mes réalisat
 
 ## 🏆 Certifications
 
-- ![Python : Université Côte d'Azur et Inria | Mars 2023](https://openbadgefactory.com/validator/result?a=https%3A%2F%2Fopenbadgefactory.com%2Fv1%2Fassertion%2F4646b23a95b9da601bf1a9c82053084c91ff5cb2.json)
-- ![Shell Bash : Université de la Réunion | Juin 2023](https://openbadgefactory.com/validator/result?a=https%3A%2F%2Fopenbadgefactory.com%2Fv1%2Fassertion%2Fadf398ea5a8cfcdad312ab6d877a8f2d1417c91c.json)
+- **Python** : Université Côte d'Azur et Inria | Mars 2023
+- **Shell Bash** : Université de la Réunion | Juin 2023
 
 
 ## 📂 Projets en Vedette
