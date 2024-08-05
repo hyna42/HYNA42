@@ -1,6 +1,6 @@
-## 👋 Bonjour !
+## Bonjour ! 👋 Je suis Amadou Diallo
 
-# Bienvenue sur mon profil GitHub 
+# Concepteur Développeur d'Applications en rechercher d'alternance
 
 ![Header Image](https://via.placeholder.com/800x200?text=Welcome+to+Amadou's+GitHub)
 
