@@ -44,6 +44,7 @@ Ce projet est un dictionnaire interactif en ligne permettant de rechercher des m
 J'ai développé ce projet de gestionnaire de tâches, simple et efficace conçu pour aider à organiser le travail et la vie quotidienne de manière efficace. Il permet d'ajouter, de supprimer et de visualiser facilement les tâches à accomplir.
 
 
+
 ## 🎓 Formation
 
 - **A partir de septembre 2024** : Concepteur Développeur d’Applications - Wild Code School, Bac+3/4
