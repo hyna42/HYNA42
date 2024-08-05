@@ -28,10 +28,10 @@ N'hésitez pas à consulter mes projets sur GitHub pour découvrir mes réalisat
 
 ## 📂 Projets
 
-🗳️ **[CryptoTrackr](https://github.com/HYNA42/cryptotrackr)**
+💹 **[CryptoTrackr](https://github.com/HYNA42/cryptotrackr)**
 CryptoTrackr est une application web permettant de suivre très facilement et en temps réel l’évolution des cryptomonnaies. Les utilisateurs peuvent se connecter, créer un compte, et mettre en favoris les cryptomonnaies qui les intéressent le plus. L'application se distingue par son interface visuelle légère et sa personnalisation.
 
-📊 **[Vot-It](https://github.com/HYNA42/votit)**
+🗳️ **[Vot-It](https://github.com/HYNA42/votit)**
 Vot-It est une plateforme de sondages axée sur le domaine de l'informatique, du développement logiciel et du DevOps, où la communauté tech peut s'exprimer, participer à des débats, et suivre les tendances de l'industrie.
 
 🐣 **[Tamagotchi](https://github.com/HYNA42/tamagotchi)**
