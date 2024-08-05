@@ -64,5 +64,3 @@ J'ai développé ce projet de gestionnaire de tâches, simple et efficace conçu
 <a href="https://www.linkedin.com/in/bylojalo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bylojalo/" height="30" width="40" /></a>
 </p>
 
-
-## 🌐 Visitez mes Projets sur [GitHub](https://github.com/HYNA42)
