@@ -47,9 +47,9 @@ J'ai développé ce projet de gestionnaire de tâches, simple et efficace conçu
 
 ## 🎓 Formation
 
-- **A partir de septembre 2024** : Concepteur Développeur d’Applications - Wild Code School, Bac+3/4
+- **A partir de septembre 2024** : Alternance Concepteur Développeur d’Applications -  Bac+3/4
 
-- **2023-2024** : Développeur Web - Studi, Bac+2
+- **2023-2024** : Développeur Web - Bac+2
 
 ## 📈 GitHub Stats
 
