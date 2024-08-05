@@ -1,8 +1,8 @@
+## 👋 Bonjour !
+
 # Bienvenue sur mon profil GitHub 
 
 ![Header Image](https://via.placeholder.com/800x200?text=Welcome+to+Amadou's+GitHub)
-
-## 👋 Bonjour !
 
 Je suis Amadou Diallo, un développeur full stack passionné en quête d'une opportunité d'alternance en tant que Concepteur Développeur d'Applications.
 
