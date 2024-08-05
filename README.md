@@ -28,16 +28,16 @@ N'hésitez pas à consulter mes projets sur GitHub pour découvrir mes réalisat
 
 ## 📂 Projets
 
-🚀 **[CryptoTrackr](https://github.com/HYNA42/cryptotrackr)**
+🗳️ **[CryptoTrackr](https://github.com/HYNA42/cryptotrackr)**
 CryptoTrackr est une application web permettant de suivre très facilement et en temps réel l’évolution des cryptomonnaies. Les utilisateurs peuvent se connecter, créer un compte, et mettre en favoris les cryptomonnaies qui les intéressent le plus. L'application se distingue par son interface visuelle légère et sa personnalisation.
 
 📊 **[Vot-It](https://github.com/HYNA42/votit)**
 Vot-It est une plateforme de sondages axée sur le domaine de l'informatique, du développement logiciel et du DevOps, où la communauté tech peut s'exprimer, participer à des débats, et suivre les tendances de l'industrie.
 
-🐱 **[Tamagotchi](https://github.com/HYNA42/tamagotchi)**
+🐣 **[Tamagotchi](https://github.com/HYNA42/tamagotchi)**
 Ce projet est une révision pratique sur la manipulation du DOM en JavaScript, réalisée sous forme de TP en classe. Le but du projet est de créer une version simplifiée d'un Tamagotchi nommé "Tamastudi", où l'utilisateur doit prendre soin de son personnage en répondant à ses besoins.
 
-📚 **[Dictionary](https://github.com/HYNA42/dictionary)**
+📖 **[Dictionary](https://github.com/HYNA42/dictionary)**
 Ce projet est un dictionnaire interactif en ligne permettant de rechercher des mots en anglais, d'obtenir leurs définitions, prononciations, et d'écouter la prononciation audio. Le projet met l'accent sur l'utilisation de JavaScript pour manipuler le DOM et interagir avec une API externe.
 
 📝 **[To-Do List](https://github.com/HYNA42/todo-list)**
