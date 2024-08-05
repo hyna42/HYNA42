@@ -4,7 +4,11 @@
 
 ![Header Image](https://via.placeholder.com/800x200?text=Welcome+to+Amadou's+GitHub)
 
-Je suis Amadou Diallo, un développeur full stack passionné en quête d'une opportunité d'alternance en tant que Concepteur Développeur d'Applications.
+Je suis actuellement à la recherche d'une entreprise pour suivre une formation en alternance en tant que Concepteur Développeur d’Applications. Passionné par le développement web et les technologies modernes, je souhaite intégrer une équipe dynamique où je pourrais mettre en pratique mes compétences et contribuer à des projets innovants.
+
+Mon objectif est de développer des solutions efficaces et performantes, tout en continuant à apprendre et à évoluer dans un environnement professionnel stimulant. Mon rythme d'alternance est de 3 semaines en entreprise pour une immersion totale dans les projets concrets, suivie d'une semaine de formation intensive pour approfondir mes connaissances théoriques et techniques.
+
+N'hésitez pas à consulter mes projets sur GitHub pour découvrir mes réalisations et en savoir plus sur mes compétences. Je suis motivé et prêt à m'investir pleinement dans cette aventure professionnelle et académique.
 
 ## 🚀 Technologies & Compétences
 
