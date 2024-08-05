@@ -26,7 +26,7 @@ N'hésitez pas à consulter mes projets sur GitHub pour découvrir mes réalisat
 
 
 
-## 📂 Projets en Vedette
+## 📂 Projets
 
 ### [cryptotrackr](https://github.com/HYNA42/cryptotrackr)
 CryptoTrackr est une application web permettant de suivre très facilement et en temps réel l’évolution des cryptomonnaies. Les utilisateurs peuvent se connecter, créer un compte, et mettre en favoris les cryptomonnaies qui les intéressent le plus. L'application se distingue par son interface visuelle légère et sa personnalisation.
