@@ -43,6 +43,7 @@ N'hésitez pas à consulter mes projets sur GitHub pour découvrir mes réalisat
 ### ![To-Do List](https://img.shields.io/badge/To--Do%20List-%F0%9F%93%85-red)
 [**To-Do List**](https://github.com/HYNA42/todo-list) est un gestionnaire de tâches simple et efficace conçu pour aider à organiser le travail et la vie quotidienne de manière efficace. Il permet d'ajouter, de supprimer et de visualiser facilement les tâches à accomplir.
 
+
 ## 🎓 Formation
 
 - **A partir de septembre 2024** : Concepteur Développeur d’Applications - Wild Code School, Bac+3/4
