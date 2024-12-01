@@ -1,4 +1,4 @@
-## Bonjour ! 👋 Je suis Amadou Diallo
+## Bonjour ! 👋 Je suis Amadou 
 
 # Concepteur Développeur d'Applications en recherche d'alternance
 
@@ -58,7 +58,7 @@ J'ai développé ce projet de gestionnaire de tâches, simple et efficace conçu
 ## 📫 Contact
 
 - 📍 Localisation : île-de-France
-- 📞 Téléphone : 07 58 15 54 45
+- 📞 Téléphone : 06 XX XX XX XX
 - 📧 Email : [hyna@duck.com](mailto:hyna@duck.com)
 <p align="left">
 <a href="https://www.linkedin.com/in/bylojalo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bylojalo/" height="30" width="40" /></a>
