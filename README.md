@@ -1,28 +1,53 @@
 ## Bonjour ! 👋 Je suis Amadou 
 
-# Concepteur Développeur d'Applications en recherche d'alternance
+# Full Stack Software Engineer
 
 ![Header Image](https://via.placeholder.com/800x200?text=Welcome+to+Amadou's+GitHub)
 
-Je suis actuellement à la recherche d'une entreprise pour suivre une formation en alternance en tant que Concepteur Développeur d’Applications. Passionné par le développement web et les technologies modernes, je souhaite intégrer une équipe dynamique où je pourrais mettre en pratique mes compétences et contribuer à des projets innovants.
+Actuellement en alternance chez Whatson Web, je travaille sur des projets web et mobile en React, React Native, TypeScript, Go et NestJS.  
+Je développe des APIs backend, des interfaces front responsives, et j’automatise les déploiements via GitLab CI/CD sur serveurs distants (VPS).  
+Je manipule également des services cloud (GCP), du stockage de fichiers, et je mets en œuvre des tests automatisés (Jest, Playwright).  
 
-Mon objectif est de développer des solutions efficaces et performantes, tout en continuant à apprendre et à évoluer dans un environnement professionnel stimulant. Mon rythme d'alternance est de 3 semaines en entreprise pour une immersion totale dans les projets concrets, suivie d'une semaine de formation intensive pour approfondir mes connaissances théoriques et techniques.
+Mon objectif : devenir un développeur full stack confirmé, rigoureux, curieux et ancré dans les pratiques modernes du DevOps.
 
-N'hésitez pas à consulter mes projets sur GitHub pour découvrir mes réalisations et en savoir plus sur mes compétences. Je suis motivé et prêt à m'investir pleinement dans cette aventure professionnelle et académique.
 
-## 🚀 Technologies & Compétences
+## 🛠️ Technologies & Environnements
 
-- **Langages de programmation** : Java, PHP, JavaScript, TypeScript
-- **Frameworks** : React, JQuery, Bootstrap, NodeJS
-- **Technologies** : RESTful APIs, SQL, MongoDB, Git, Docker
-- **Outils & Environnements** : VS Code, Eclipse, IntelliJ IDEA, JIRA, PhP Storm, LINUX
+**Langages** : TypeScript, JavaScript, Go, Bash  
+**Frontend** : React, React Native, Tailwind CSS  
+**Backend** : NestJS, Node.js, FeathersJS, Express, Sequelize, GraphQL (Apollo)  
+**Bases de données** : PostgreSQL, SQLite, MongoDB  
+**DevOps & Cloud** : Docker, GitLab CI/CD, VPS, GCP  
+**Tests** : Jest, Playwright, React Testing Library  
+**Outils** : VS Code, Postman, Linux, Git
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+## 🧰 Stack principale
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40"/></a>
+  <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/></a>
+  <a href="https://about.gitlab.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab CI/CD" width="40"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40"/></a>
+</p>
+
 
 ## 🏆 Certifications
 
-- **[Python](https://openbadgefactory.com/validator/result?a=https%3A%2F%2Fopenbadgefactory.com%2Fv1%2Fassertion%2F4646b23a95b9da601bf1a9c82053084c91ff5cb2.json)** : Université Côte d'Azur et Inria | Mars 2023
-- **[Shell Bash](https://openbadgefactory.com/validator/result?a=https%3A%2F%2Fopenbadgefactory.com%2Fv1%2Fassertion%2Fadf398ea5a8cfcdad312ab6d877a8f2d1417c91c.json)** : Université de la Réunion | Juin 2023
+- 🟢 FreeCodeCamp : JavaScript, Frontend Libraries, Backend APIs  
+- 🟣 Scrimba : React, TypeScript, Advanced JavaScript  
+- 🟡 AWS Cloud Practitioner (CLF-C02) — *en cours de préparation*  
+- 🔵 Python — Université Côte d'Azur & Inria  
+- 🔵 Shell Bash — Université de la Réunion
 
 
 ## 📂 Projets
@@ -43,13 +68,11 @@ Ce projet est un dictionnaire interactif en ligne permettant de rechercher des m
 J'ai développé ce projet de gestionnaire de tâches, simple et efficace conçu pour aider à organiser le travail et la vie quotidienne de manière efficace. Il permet d'ajouter, de supprimer et de visualiser facilement les tâches à accomplir.
 
 
+## 🎓 Formations
 
+- 2024 – en cours : Concepteur Développeur d’Applications (RNCP Niveau 6) – Wild Code School  
+- 2023 – 2024 : Développeur Web – Studi (Bac+2)  
 
-## 🎓 Formation
-
-- **A partir de septembre 2024** : Alternance Concepteur Développeur d’Applications -  Bac+3/4
-
-- **2023-2024** : Développeur Web - Bac+2
 
 ## 📈 GitHub Stats
 
@@ -57,8 +80,8 @@ J'ai développé ce projet de gestionnaire de tâches, simple et efficace conçu
 
 ## 📫 Contact
 
-- 📍 Localisation : île-de-France
-- 📞 Téléphone : 06 XX XX XX XX
+- 📍 Localisation : Paris | Lille
+
 - 📧 Email : [hyna@duck.com](mailto:hyna@duck.com)
 <p align="left">
 <a href="https://www.linkedin.com/in/bylojalo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bylojalo/" height="30" width="40" /></a>
