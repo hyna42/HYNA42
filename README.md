@@ -21,7 +21,7 @@ Mon objectif : devenir un développeur full stack confirmé, rigoureux, curieux 
 **Tests** : Jest, Playwright, React Testing Library  
 **Outils** : VS Code, Postman, Linux, Git
 
-
+## 🧰 Stack principale
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
@@ -38,13 +38,11 @@ Mon objectif : devenir un développeur full stack confirmé, rigoureux, curieux 
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
   </a>
-  <a href="https://nestjs.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/NestJS.svg" alt="NestJS" width="40" />
-</a>
+ <a href="https://nestjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="40"/></a>
 
   <a href="https://www.apollographql.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apollo_Logo_Full-Color.svg/512px-Apollo_Logo_Full-Color.svg.png" alt="Apollo GraphQL" width="40" />
-</a>
+    <img src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" alt="Apollo GraphQL" width="40"/>
+  </a>
 
   <a href="https://go.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40"/>
@@ -70,9 +68,9 @@ Mon objectif : devenir un développeur full stack confirmé, rigoureux, curieux 
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40"/>
-  </a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="40" alt="AWS"/>
+</a>
 </p>
 
 
