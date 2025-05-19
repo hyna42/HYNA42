@@ -22,8 +22,6 @@ Mon objectif : devenir un développeur full stack confirmé, rigoureux, curieux 
 **Outils** : VS Code, Postman, Linux, Git
 
 
-## 🧰 Stack principale
-
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
@@ -32,7 +30,7 @@ Mon objectif : devenir un développeur full stack confirmé, rigoureux, curieux 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
@@ -41,11 +39,13 @@ Mon objectif : devenir un développeur full stack confirmé, rigoureux, curieux 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/NestJS.svg" alt="NestJS" width="40" />
+</a>
+
   <a href="https://www.apollographql.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apollo_Logo_Full-Color.svg/512px-Apollo_Logo_Full-Color.svg.png" alt="Apollo GraphQL" width="40"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apollo_Logo_Full-Color.svg/512px-Apollo_Logo_Full-Color.svg.png" alt="Apollo GraphQL" width="40" />
+</a>
+
   <a href="https://go.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40"/>
   </a>
@@ -74,6 +74,8 @@ Mon objectif : devenir un développeur full stack confirmé, rigoureux, curieux 
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40"/>
   </a>
 </p>
+
+
 
 
 ## 🏆 Certifications
