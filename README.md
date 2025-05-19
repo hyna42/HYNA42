@@ -41,10 +41,10 @@ Mon objectif : devenir un développeur full stack confirmé, rigoureux, curieux 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank">
-    <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" style="background-color:white; border-radius:6px; padding:4px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40"/>
   </a>
   <a href="https://www.apollographql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/Apollo%20GraphQL.svg" alt="Apollo GraphQL" width="40" style="background-color:white; border-radius:6px; padding:4px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apollo_Logo_Full-Color.svg/512px-Apollo_Logo_Full-Color.svg.png" alt="Apollo GraphQL" width="40"/>
   </a>
   <a href="https://go.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40"/>
@@ -74,9 +74,6 @@ Mon objectif : devenir un développeur full stack confirmé, rigoureux, curieux 
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40"/>
   </a>
 </p>
-
-
-
 
 
 ## 🏆 Certifications
