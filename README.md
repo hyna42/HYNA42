@@ -2,7 +2,8 @@
 
 # Full Stack Software Engineer
 
-![Header Image](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Bienvenue+sur+le+profil+de+Amadou;Full+Stack+Software+Engineer;React+%7C+Node+%7C+Go+%7C+Docker+%7C+GCP)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Salut+👋+je+suis+Amadou;Full+Stack+Engineer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+NestJS+%7C+Go)
+
 
 
 Actuellement en alternance chez Whatson Web, je travaille sur des projets web et mobile en React, React Native, TypeScript, Go et NestJS.  
