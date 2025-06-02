@@ -2,7 +2,8 @@
 
 # Full Stack Software Engineer
 
-![Header Image](https://via.placeholder.com/800x200?text=Welcome+to+Amadou's+GitHub)
+![Header Image](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Bienvenue+sur+le+profil+de+Amadou;Full+Stack+Software+Engineer;React+%7C+Node+%7C+Go+%7C+Docker+%7C+GCP)
+
 
 Actuellement en alternance chez Whatson Web, je travaille sur des projets web et mobile en React, React Native, TypeScript, Go et NestJS.  
 Je développe des APIs backend, des interfaces front responsives, et j’automatise les déploiements via GitLab CI/CD sur serveurs distants (VPS).  
