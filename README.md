@@ -1,6 +1,6 @@
-## Bonjour ! 👋 Je suis Amadou 
+## Bonjour ! 👋 Je suis Amadou  - Full Stack Software Engineer
 
-# Full Stack Software Engineer
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Salut+👋+je+suis+Amadou;Full+Stack+Engineer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+NestJS+%7C+Go)
 
