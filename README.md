@@ -117,7 +117,7 @@ J'ai développé ce projet de gestionnaire de tâches, simple et efficace conçu
 
 ## 📫 Contact
 
-- 📍 Localisation : Paris | Lille
+- 📍 Localisation : Paris
 
 - 📧 Email : [hyna@duck.com](mailto:hyna@duck.com)
 <p align="left">
