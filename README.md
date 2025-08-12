@@ -89,6 +89,13 @@ Mon objectif : devenir un développeur full stack confirmé, rigoureux, curieux 
 
 ## 📂 Projets
 
+### 🛒 **[The Good Corner V2](https://github.com/hyna42/TGC-V2)**  
+The Good Corner V2 est une application web full-stack de petites annonces inspirée de *LeBonCoin*.  
+Elle permet aux utilisateurs de publier, rechercher et gérer des annonces avec authentification sécurisée, filtres avancés et upload d’images.  
+Le projet inclut une architecture en microservices, une interface responsive et un pipeline CI/CD automatisé.  
+
+🔗 **Démo en ligne** : [stg.the-good-corner.hyna.me](https://stg.the-good-corner.hyna.me)
+
 ### 💹 **[CryptoTrackr](https://github.com/HYNA42/cryptotrackr)**  
 CryptoTrackr est une application web permettant de suivre très facilement et en temps réel l’évolution des cryptomonnaies. Les utilisateurs peuvent se connecter, créer un compte, et mettre en favoris les cryptomonnaies qui les intéressent le plus. L'application se distingue par son interface visuelle légère et sa personnalisation.
 
@@ -107,7 +114,7 @@ J'ai développé ce projet de gestionnaire de tâches, simple et efficace conçu
 
 ## 🎓 Formations
 
-- 2024 – en cours : Concepteur Développeur d’Applications (RNCP Niveau 6) – Wild Code School  
+- 2024 – en cours : Concepteur Développeur d’Applications (RNCP Niveau 6) Bac+4 – Wild Code School  
 - 2023 – 2024 : Développeur Web – Studi (Bac+2)  
 
 
